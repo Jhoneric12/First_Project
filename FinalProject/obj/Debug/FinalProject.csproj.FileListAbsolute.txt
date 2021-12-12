@@ -1,0 +1,8 @@
+C:\Users\Karl\Desktop\C#_Aton\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Karl\Desktop\C#_Aton\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Karl\Desktop\C#_Aton\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Karl\Desktop\C#_Aton\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Karl\Desktop\C#_Aton\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Karl\Desktop\C#_Aton\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Karl\Desktop\C#_Aton\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\C#_Aton\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
